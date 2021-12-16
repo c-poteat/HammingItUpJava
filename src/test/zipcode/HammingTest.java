@@ -3,8 +3,6 @@ package zipcode;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
-import zipcode.Hamming;
-
 import static org.junit.Assert.assertEquals;
 
 
